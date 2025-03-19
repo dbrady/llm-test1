@@ -1,3 +1,10 @@
-# THIS IS THE PUNCHLINE!
+# YOU'RE A BIG FAT JERK!
 
-...the joke is that I never actually had an llm-test1. I just put this here to see who would try an index attack. Hi there! 😜
+Here's what we know so far:
+
+1. You're sitting in URUG right now
+2. You saw me type https://github.com/dbrady/llm-test2
+3. You thought "oh hey, I wonder if there was an llm-test1..."
+4. No. There isn't. 😜
+5. Now stop laughing and pay attention. :heart:
+
